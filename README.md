@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+História retirada: https://github.com/JulioCF/Ragnarok-OldTimes/blob/master/emulador_oldtimes/outros_emuladores/Hugel/npc/classes/aprendiz/treinamento.txt
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
